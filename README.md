@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Simple-arduino-car(updates)</h1>
+<h1 align="center" id="title">Simple-arduino-car(new)</h1>
 
 <p id="description">Understanding concepts like I2C using (intertial measurent unit)ADXL345 accelerometerOLED display module and SPI using NRF24 radio module</p>
 
